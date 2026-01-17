@@ -131,7 +131,7 @@ The project serves as a strong foundation for real-world sales analysis, academi
 
 ## 12. Author
 
-**Gammaniel Hannatu**
+**OdihiSamuel**
 Data Analyst | Python | Data Visualization
 
 ---
